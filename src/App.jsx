@@ -33,7 +33,7 @@ function App() {
       <div className="min-h-screen bg-gray-50 dark:bg-black p-6">
 
         {/* TOP BAR */}
-        <div className="flex justify-between items-center mb-6">
+        <div className="flex justify-between items-center flex-wrap mb-6">
           <h1 className="text-3xl dark:text-white font-bold">Mini Jira – Kanban Board</h1>
 
           <Button
